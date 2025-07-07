@@ -1,0 +1,53 @@
+body {
+    background-color: lightblue;
+    font-family: Georgia;
+}
+
+h1 {
+    color: rgb(22, 86, 205);
+    text-align: center;
+    padding-top: 20px;
+
+}
+
+h4 {
+    color: rgb(22, 86, 205);
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+#map {
+    height: 600px;
+    width: 70%;
+    margin: auto;
+    padding-top: 150px;
+}
+
+.modal-dialog {
+    height: 300px;
+    width: 60%;
+
+   
+}
+
+#penPark {
+    height: 50%;
+    width: 50%;
+}
+
+#uva {
+    height: 50%;
+    width: 50%;
+    padding-top: 20px;
+}
+
+.popup.leaflet-popup-content-wrapper{
+    background-color: gray;
+    opacity: 0.9;
+}
+.popup.leaflet-popup-tip {
+    color: red;
+}
+
+

@@ -1,0 +1,107 @@
+{ 
+    "places": [
+        {
+            "location": "Victoria, BC, Canada",
+            "coordinates": [48.4284, -123.3656],
+            "page": "Victoria.html"
+        },
+        {
+            "location": "Berkeley, CA, USA",
+            "coordinates": [37.8715, -122.2730]
+        },
+        {
+            "location": "Charlottesville, VA, USA",
+            "coordinates": [38.0302, -78.4769]
+        },
+        {
+            "location": "Vancouver, BC, Canada",
+            "coordinates": [49.2827, -123.1207] 
+        },
+        {
+            "location": "Westfield, NJ, USA",
+            "coordinates": [40.6499, -74.3502]   
+        },
+        {
+            "location": "Pasadena, CA, USA",
+            "coordinates": [34.1477, -118.1443]   
+        },
+        {
+            "location": "Washington DC, USA",
+            "coordinates": [38.9072, -77.0369]
+        },
+        {
+            "location": "Far Hills, NJ, USA",
+            "coordinates": [40.6833, -74.6370]
+        },   
+        {
+            "location": "Edinburgh, Scotland, UK",
+            "coordinates": [55.9533, -3.1883]
+        }, 
+        {
+            "location": "Aberdeen, Scotland, UK",
+            "coordinates": [57.1499, -2.0938]
+        },
+        {
+            "location": "Dundee, Scotland, UK",
+            "coordinates": [56.4620, -2.9707]
+        },   
+        {
+            "location": "Glasgow, Scotland, UK",
+            "coordinates": [55.8617, -4.2583]
+        },   
+        {
+            "location": "Cove Park, Scotland, UK",
+            "coordinates": [56.0349, -4.8549]
+        },  
+        {
+            "location": "Lismore, Scotland, UK",
+            "coordinates": [56.5006, -5.5263]
+        },  
+        {
+            "location": "Montreal, QC, Canada",
+            "coordinates": [45.5019, -73.5674]
+        },  
+        {
+            "location": "Durham, England, UK",
+            "coordinates": [54.7753, -1.5849]
+        },
+        {
+            "location": "Boston, MA, USA",
+            "coordinates": [42.3555, -71.0565]
+        },
+        {
+            "location": "Canmore, AB, Canada",
+            "coordinates": [51.0884, -115.3479]
+        },
+        {
+            "location": "Atlanta, GA, USA",
+            "coordinates": [33.7501, -84.3885]
+        },
+        {
+            "location": "Oslo, Norway",
+            "coordinates": [59.9139, 10.7522]
+        },
+        {
+            "location": "Bergen, Norway",
+            "coordinates": [60.3913, 5.3221]
+        },
+        {
+            "location": "Bilbao, Spain",
+            "coordinates": [43.2634, -2.9348]
+        },
+        {
+            "location": "Stockholm, Sweden",
+            "coordinates": [59.3327, 18.0656]
+        },
+        {
+            "location": "Burlington, VT, USA",
+            "coordinates": [44.4759, -73.2121]
+        }
+    ]
+}
+
+        
+
+
+
+
