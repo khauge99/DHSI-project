@@ -16,7 +16,7 @@ $.getJSON("project_data.json", function(data) {
     let markers = []; 
     while (i < placeArray.length) {
         markers[i] = new L.marker(placeArray[i].coordinates);
-        markers[i].addTo(map).bindPopup(placeArray[i].location + placeArray[i].image);  
+        markers[i].addTo(map).bindPopup(placeArray[i].location + placeArray[i].text + placeArray[i].image);  
         i++;
     }     
 });

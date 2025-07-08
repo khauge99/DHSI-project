@@ -3,107 +3,136 @@
         {
             "location": "Victoria, BC, Canada",
             "coordinates": [48.4284, -123.3656],
+            "text": "<br>July 2022",
             "image": "<img src=\"Actual-photos/Victoria/IMG_2653.jpeg \" height=\"200px\" width = \"250px\" /></img>"
         },
         {
             "location": "Berkeley, CA, USA",
             "coordinates": [37.8715, -122.2730],
+            "text": "<br>August 2024",
             "image": "<img src=\"Actual-photos/Berkeley/IMG_2003.jpeg \" height=\"150px\" width = \"100px\" /></img>"
         },
         {
             "location": "Charlottesville, VA, USA",
             "coordinates": [38.0302, -78.4769],
+            "text": "<br>May 2024",
             "image": "<img src=\"Actual-photos/Charlottesville/P1010126.JPG \" height=\"200px\" width = \"250px\" /></img>"
         },
         {
             "location": "Vancouver, BC, Canada",
             "coordinates": [49.2827, -123.1207],
-            "image": "<img src=\"Actual-photos/Vancouver/IMG_1780.jpeg \" height=\"200px\" width = \"250px\" /></img>"
+            "text": "<br>March 2025",
+            "image": "<img src=\"Actual-photos/Vancouver/IMG_4482.jpeg \" height=\"200px\" width = \"250px\" /></img>"
         },
         {
             "location": "Westfield, NJ, USA",
             "coordinates": [40.6499, -74.3502],
+            "text": "<br>May 2025",
             "image": "<img src=\"Actual-photos/Westfield/IMG_6248.jpeg \" height=\"200px\" width = \"250px\" /></img>" 
         },
         {
             "location": "Pasadena, CA, USA",
             "coordinates": [34.1477, -118.1443],
+            "text": "<br>March 2024", 
             "image": "<img src=\"Actual-photos/Pasadena/IMG_0447.jpeg \" height=\"200px\" width = \"250px\" /></img>"   
         },
         {
             "location": "Washington DC, USA",
             "coordinates": [38.9072, -77.0369],
+            "text": "<br>April 2024",
             "image": "<img src=\"Actual-photos/DC/IMG_0877.jpeg \" height=\"200px\" width = \"250px\" /></img>" 
         },  
         {
             "location": "Edinburgh, Scotland, UK",
             "coordinates": [55.9533, -3.1883],
+            "text": "<br>June 2025",
             "image": "<img src=\"Actual-photos/Edinburgh/IMG_6956.jpeg \" height=\"200px\" width = \"250px\" /></img>"
         }, 
         {
             "location": "Aberdeen, Scotland, UK",
             "coordinates": [57.1499, -2.0938],
+            "text": "<br>June 2025",
             "image": "<img src=\"Actual-photos/Aberdeen/IMG_7081.jpeg \" height=\"200px\" width = \"250px\" /></img>"
             
         },   
         {
             "location": "Glasgow, Scotland, UK",
             "coordinates": [55.8617, -4.2583],
+            "text": "<br>June 2025",
             "image": "<img src=\"Actual-photos/Glasgow/IMG_7336.jpeg \" height=\"200px\" width = \"250px\" /></img>"
             
         },   
         {
-            "location": "Cove Park, Scotland, UK",
+            "location": "Cove, Scotland, UK",
             "coordinates": [56.0349, -4.8549],
+            "text": "<br>June 2025",
             "image": "<img src=\"Actual-photos/Cove/IMG_6649.JPG \" height=\"200px\" width = \"250px\" /></img>"
         },  
         {
             "location": "Lismore, Scotland, UK",
             "coordinates": [56.5006, -5.5263],
+            "text": "<br>June 2025",
             "image": "<img src=\"Actual-photos/Lismore/IMG_6504.JPG \" height=\"200px\" width = \"250px\" /></img>"
         },  
         {
             "location": "Montreal, QC, Canada",
             "coordinates": [45.5019, -73.5674],
+            "text": "<br>May 2025",
             "image": "<img src=\"Actual-photos/Montreal/IMG_6305.jpeg \" height=\"200px\" width = \"250px\" /></img>"
         },  
         {
             "location": "Durham, England, UK",
             "coordinates": [54.7753, -1.5849],
+            "text": "<br>June 2024",
             "image": "<img src=\"Actual-photos/Durham/IMG_1405.jpeg \" height=\"200px\" width = \"250px\" /></img>"
         },
         {
             "location": "Boston, MA, USA",
             "coordinates": [42.3555, -71.0565],
+            "text": "<br>May 2025",
             "image": "<img src=\"Actual-photos/Boston/IMG_6207.jpeg \" height=\"200px\" width = \"250px\" /></img>"
         },
         {
             "location": "Canmore, AB, Canada",
             "coordinates": [51.0884, -115.3479],
+            "text": "<br>July 2023",
             "image": "<img src=\"Actual-photos/Canmore/P1010025.JPG \" height=\"200px\" width = \"250px\" /></img>"
         },
         {
             "location": "Oslo, Norway",
-            "coordinates": [59.9139, 10.7522]
+            "coordinates": [59.9139, 10.7522],
+            "text": "<br>June 2014",
+            "image": "<img src=\"Actual-photos/Oslo/506603295_10012741125483775_8613899504144951529_n.jpg \" height=\"200px\" width = \"250px\" /></img>"
         },
         {
             "location": "Bergen, Norway",
-            "coordinates": [60.3913, 5.3221]
+            "coordinates": [60.3913, 5.3221],
+            "text": "<br>June 2014",
+            "image": "<img src=\"Actual-photos/Bergen/Grieg Hut.jpg \" height=\"200px\" width = \"250px\" /></img>"
         },
         {
             "location": "Stockholm, Sweden",
             "coordinates": [59.3327, 18.0656],
+            "text": "<br>June 2025",
             "image": "<img src=\"Actual-photos/Stockholm/IMG_7443.jpeg \" height=\"200px\" width = \"250px\" /></img>"
         },
         {
             "location": "Burlington, VT, USA",
             "coordinates": [44.4759, -73.2121],
+            "text": "<br>August 2023",
             "image": "<img src=\"Actual-photos/Burlington/IMG_5231.jpeg \" height=\"200px\" width = \"250px\" /></img>"
         },
         {
             "location": "Princeton, NJ, USA",
             "coordinates": [40.3504, -74.6571],
+            "text": "<br>May 2023",
             "image": "<img src=\"Actual-photos/Princeton/IMG_4844.jpeg \" height=\"200px\" width = \"250px\" /></img>"
+        },
+        {
+            "location": "León, Spain",
+            "coordinates": [42.5984, -5.5719],
+            "text": "<br>January 2018",
+            "image": "<img src=\"Actual-photos/Leon/513091799_23896527266678593_4682025360069366144_n.jpg \" height=\"200px\" width = \"250px\" /></img>"
         }
 
     ]
