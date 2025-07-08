@@ -3,79 +3,84 @@
         {
             "location": "Victoria, BC, Canada",
             "coordinates": [48.4284, -123.3656],
-            "page": "Victoria.html"
+            "image": "<img src=\"Actual-photos/Victoria/IMG_2653.jpeg \" height=\"200px\" width = \"250px\" /></img>"
         },
         {
             "location": "Berkeley, CA, USA",
-            "coordinates": [37.8715, -122.2730]
+            "coordinates": [37.8715, -122.2730],
+            "image": "<img src=\"Actual-photos/Berkeley/IMG_2003.jpeg \" height=\"150px\" width = \"100px\" /></img>"
         },
         {
             "location": "Charlottesville, VA, USA",
-            "coordinates": [38.0302, -78.4769]
+            "coordinates": [38.0302, -78.4769],
+            "image": "<img src=\"Actual-photos/Charlottesville/P1010126.JPG \" height=\"200px\" width = \"250px\" /></img>"
         },
         {
             "location": "Vancouver, BC, Canada",
-            "coordinates": [49.2827, -123.1207] 
+            "coordinates": [49.2827, -123.1207],
+            "image": "<img src=\"Actual-photos/Vancouver/IMG_1780.jpeg \" height=\"200px\" width = \"250px\" /></img>"
         },
         {
             "location": "Westfield, NJ, USA",
-            "coordinates": [40.6499, -74.3502]   
+            "coordinates": [40.6499, -74.3502],
+            "image": "<img src=\"Actual-photos/Westfield/IMG_6248.jpeg \" height=\"200px\" width = \"250px\" /></img>" 
         },
         {
             "location": "Pasadena, CA, USA",
-            "coordinates": [34.1477, -118.1443]   
+            "coordinates": [34.1477, -118.1443],
+            "image": "<img src=\"Actual-photos/Pasadena/IMG_0447.jpeg \" height=\"200px\" width = \"250px\" /></img>"   
         },
         {
             "location": "Washington DC, USA",
-            "coordinates": [38.9072, -77.0369]
-        },
-        {
-            "location": "Far Hills, NJ, USA",
-            "coordinates": [40.6833, -74.6370]
-        },   
+            "coordinates": [38.9072, -77.0369],
+            "image": "<img src=\"Actual-photos/DC/IMG_0877.jpeg \" height=\"200px\" width = \"250px\" /></img>" 
+        },  
         {
             "location": "Edinburgh, Scotland, UK",
-            "coordinates": [55.9533, -3.1883]
+            "coordinates": [55.9533, -3.1883],
+            "image": "<img src=\"Actual-photos/Edinburgh/IMG_6956.jpeg \" height=\"200px\" width = \"250px\" /></img>"
         }, 
         {
             "location": "Aberdeen, Scotland, UK",
-            "coordinates": [57.1499, -2.0938]
-        },
-        {
-            "location": "Dundee, Scotland, UK",
-            "coordinates": [56.4620, -2.9707]
+            "coordinates": [57.1499, -2.0938],
+            "image": "<img src=\"Actual-photos/Aberdeen/IMG_7081.jpeg \" height=\"200px\" width = \"250px\" /></img>"
+            
         },   
         {
             "location": "Glasgow, Scotland, UK",
-            "coordinates": [55.8617, -4.2583]
+            "coordinates": [55.8617, -4.2583],
+            "image": "<img src=\"Actual-photos/Glasgow/IMG_7336.jpeg \" height=\"200px\" width = \"250px\" /></img>"
+            
         },   
         {
             "location": "Cove Park, Scotland, UK",
-            "coordinates": [56.0349, -4.8549]
+            "coordinates": [56.0349, -4.8549],
+            "image": "<img src=\"Actual-photos/Cove/IMG_6649.JPG \" height=\"200px\" width = \"250px\" /></img>"
         },  
         {
             "location": "Lismore, Scotland, UK",
-            "coordinates": [56.5006, -5.5263]
+            "coordinates": [56.5006, -5.5263],
+            "image": "<img src=\"Actual-photos/Lismore/IMG_6504.JPG \" height=\"200px\" width = \"250px\" /></img>"
         },  
         {
             "location": "Montreal, QC, Canada",
-            "coordinates": [45.5019, -73.5674]
+            "coordinates": [45.5019, -73.5674],
+            "image": "<img src=\"Actual-photos/Montreal/IMG_6305.jpeg \" height=\"200px\" width = \"250px\" /></img>"
         },  
         {
             "location": "Durham, England, UK",
-            "coordinates": [54.7753, -1.5849]
+            "coordinates": [54.7753, -1.5849],
+            "image": "<img src=\"Actual-photos/Durham/IMG_1405.jpeg \" height=\"200px\" width = \"250px\" /></img>"
         },
         {
             "location": "Boston, MA, USA",
-            "coordinates": [42.3555, -71.0565]
+            "coordinates": [42.3555, -71.0565],
+            "image": "<img src=\"Actual-photos/Boston/IMG_6207.jpeg \" height=\"200px\" width = \"250px\" /></img>"
         },
         {
             "location": "Canmore, AB, Canada",
-            "coordinates": [51.0884, -115.3479]
-        },
-        {
-            "location": "Atlanta, GA, USA",
-            "coordinates": [33.7501, -84.3885]
+            "coordinates": [51.0884, -115.3479],
+            "image": "<img src=\"Actual-photos/Canmore/P1010025.JPG \" height=\"200px\" width = \"250px\" /></img>"
         },
         {
             "location": "Oslo, Norway",
@@ -86,17 +91,21 @@
             "coordinates": [60.3913, 5.3221]
         },
         {
-            "location": "Bilbao, Spain",
-            "coordinates": [43.2634, -2.9348]
-        },
-        {
             "location": "Stockholm, Sweden",
-            "coordinates": [59.3327, 18.0656]
+            "coordinates": [59.3327, 18.0656],
+            "image": "<img src=\"Actual-photos/Stockholm/IMG_7443.jpeg \" height=\"200px\" width = \"250px\" /></img>"
         },
         {
             "location": "Burlington, VT, USA",
-            "coordinates": [44.4759, -73.2121]
+            "coordinates": [44.4759, -73.2121],
+            "image": "<img src=\"Actual-photos/Burlington/IMG_5231.jpeg \" height=\"200px\" width = \"250px\" /></img>"
+        },
+        {
+            "location": "Princeton, NJ, USA",
+            "coordinates": [40.3504, -74.6571],
+            "image": "<img src=\"Actual-photos/Princeton/IMG_4844.jpeg \" height=\"200px\" width = \"250px\" /></img>"
         }
+
     ]
 }
 

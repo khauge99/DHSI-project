@@ -1,17 +1,18 @@
 body {
-    background-color: lightblue;
+    background-color: rgb(33, 122, 33);
     font-family: Georgia;
+    overflow: hidden;
 }
 
 h1 {
-    color: rgb(22, 86, 205);
+    color: rgba(255, 255, 255, 0.86);
     text-align: center;
     padding-top: 20px;
 
 }
 
 h4 {
-    color: rgb(22, 86, 205);
+    color: rgba(255, 255, 255, 0.86);
     text-align: center;
     padding-top: 20px;
     padding-bottom: 20px;
@@ -19,35 +20,31 @@ h4 {
 
 #map {
     height: 600px;
-    width: 70%;
-    margin: auto;
-    padding-top: 150px;
-}
-
-.modal-dialog {
-    height: 300px;
     width: 60%;
-
-   
+    margin: auto;
+    padding-top: 100px;
 }
 
-#penPark {
-    height: 50%;
-    width: 50%;
+.leaflet-popup-content-wrapper {
+    display: block;
+    width: auto;
+    height: auto;
+    background-color: rgb(107, 173, 9);
 }
 
-#uva {
-    height: 50%;
-    width: 50%;
-    padding-top: 20px;
+.leaflet-popup-content {
+    display: block;
+    text-align: center;
+    color: white;
+  }
+
+.leaflet-popup-content img {  
+    display: block; 
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 70vw;
+    max-height: 60vw;
 }
 
-.popup.leaflet-popup-content-wrapper{
-    background-color: gray;
-    opacity: 0.9;
-}
-.popup.leaflet-popup-tip {
-    color: red;
-}
 
 
